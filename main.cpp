@@ -96,7 +96,7 @@ void test_modulo_concept2()
 	std::cout << n << " mod " << d << " = " << modulo_concept2(n, d) << std::endl;
 }
 
-
+// to try out the various features above, simply uncomment out the corresponding function below
 int main()
 {
 	//test_modulo_plain();
